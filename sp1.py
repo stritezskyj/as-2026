@@ -1,4 +1,4 @@
-#22 12.10.
+#22  12.10.  Program hýbe kuličkou a potom vypíše tabulku.
 import time
 import math
 
